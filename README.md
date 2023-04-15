@@ -16,3 +16,5 @@ SVM Algo  Heart Disease (SVC)
 <img src="imgs/lagrange-equation.png" width="1000"/><br><br>
 <img src="imgs/cases.png" width="1000"/><br><br>
 <img src="imgs/charts.png" width="1000"/><br><br>
+<img src="imgs/kernals_3d svm.png" width="1000"/><br><br>
+<img src="imgs/svc&svr.png" width="1000"/><br><br>
