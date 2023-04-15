@@ -20,3 +20,4 @@ SVM Algo  Heart Disease (SVC)
 <img src="imgs/svc&svr.png" width="1000"/><br><br>
 
 
+
